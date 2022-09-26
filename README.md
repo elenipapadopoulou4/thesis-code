@@ -1,6 +1,7 @@
 # thesis-code
 A Protocol for Fair Affect Recognition
 Code for each model trained and evaluated on each database BEFORE and AFTER the application of the fair split.
+
 Affect Computing Tasks
 [1] Emotion Recognition
 [2] Valence & Arousal Estimation
