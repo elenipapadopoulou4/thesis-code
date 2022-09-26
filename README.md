@@ -3,9 +3,9 @@ A Protocol for Fair Affect Recognition
 Code for each model trained and evaluated on each database BEFORE and AFTER the application of the fair split.
 
 Affect Computing Tasks
-*[1] Emotion Recognition
-*[2] Valence & Arousal Estimation
-*[3] Action Unit Detection
+1. Emotion Recognition
+2. Valence & Arousal Estimation
+3. Action Unit Detection
 
 Databases [task]
   - AffectNet [1][2]
