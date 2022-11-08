@@ -1,6 +1,6 @@
 # thesis-code
-Code used for NTUA thesis
-A Protocol for Fair Affect Recognition
+Code used for NTUA - ECE thesis
+Thesis title: A Protocol for Fair Affect Recognition
 
 
 Code for each model trained and evaluated on each database BEFORE and AFTER the application of the fair split.
